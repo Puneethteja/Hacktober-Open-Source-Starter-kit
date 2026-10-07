@@ -1,0 +1,80 @@
+[
+  {
+    "term": "Branch",
+    "definition": "A separate line of work inside a repository. You make your changes on a branch so the main code stays safe until your work is reviewed.",
+    "example": "git checkout -b fix-readme-typo"
+  },
+  {
+    "term": "Clone",
+    "definition": "Download a copy of a repository from GitHub to your own computer so you can work on it.",
+    "example": "git clone https://github.com/your-username/open-source-starter-kit.git"
+  },
+  {
+    "term": "Commit",
+    "definition": "A saved snapshot of your changes, with a short message that explains what you changed.",
+    "example": "git commit -m \"Fix typo in README\""
+  },
+  {
+    "term": "Contributor",
+    "definition": "Anyone who improves a project: by writing code, fixing docs, reporting bugs, designing, or reviewing."
+  },
+  {
+    "term": "Fork",
+    "definition": "Your own copy of someone else's repository, stored under your GitHub account. You push your changes to your fork, then ask the original project to accept them."
+  },
+  {
+    "term": "Git",
+    "definition": "A tool that tracks every change made to a set of files, so you can see the history, undo mistakes, and work with others.",
+    "example": "git --version"
+  },
+  {
+    "term": "GitHub",
+    "definition": "A website where people store Git repositories online and work on them together through issues and pull requests."
+  },
+  {
+    "term": "Issue",
+    "definition": "A post on a repository that describes a bug, a task, or an idea. Contributors usually pick an issue before starting work."
+  },
+  {
+    "term": "Label",
+    "definition": "A tag on an issue or pull request that tells you what kind of work it is, like good first issue or documentation."
+  },
+  {
+    "term": "Maintainer",
+    "definition": "A person who looks after a project: they review pull requests, answer questions, and decide what gets merged."
+  },
+  {
+    "term": "Merge",
+    "definition": "Combine the changes from one branch into another. When a maintainer merges your pull request, your work becomes part of the project."
+  },
+  {
+    "term": "Open source",
+    "definition": "Software whose code is public, so anyone can read it, use it, and suggest improvements."
+  },
+  {
+    "term": "Pull",
+    "definition": "Download the latest changes from a remote repository into your local copy.",
+    "example": "git pull"
+  },
+  {
+    "term": "Pull request",
+    "definition": "A request asking the maintainers to review your changes and merge them into the project. Often shortened to PR."
+  },
+  {
+    "term": "Push",
+    "definition": "Upload your local commits to a repository on GitHub, usually your fork.",
+    "example": "git push origin fix-readme-typo"
+  },
+  {
+    "term": "README",
+    "definition": "The first file people read in a repository. It explains what the project is and how to get started."
+  },
+  {
+    "term": "Repository",
+    "definition": "A project folder tracked by Git, including all its files and their full history. Often shortened to repo."
+  },
+  {
+    "term": "Review",
+    "definition": "When someone reads your pull request and leaves comments, suggestions, or an approval before it is merged."
+  }
+]

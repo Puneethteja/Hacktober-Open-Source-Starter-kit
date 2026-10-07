@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Set up Git (once per computer)",
+    "commands": [
+      { "command": "git --version", "description": "Check that Git is installed." },
+      { "command": "git config --global user.name \"Your Name\"", "description": "Set the name shown on your commits." },
+      { "command": "git config --global user.email \"you@example.com\"", "description": "Set the email linked to your GitHub account." }
+    ]
+  },
+  {
+    "title": "Get a project",
+    "commands": [
+      { "command": "git clone <url>", "description": "Download a repository to your computer. Use the URL of your fork." },
+      { "command": "cd <folder-name>", "description": "Move into the project folder." }
+    ]
+  },
+  {
+    "title": "Work on a branch",
+    "commands": [
+      { "command": "git checkout -b <branch-name>", "description": "Create a new branch and switch to it." },
+      { "command": "git branch", "description": "List your branches. The current one has a star." },
+      { "command": "git switch <branch-name>", "description": "Switch to a branch that already exists." }
+    ]
+  },
+  {
+    "title": "Save your changes",
+    "commands": [
+      { "command": "git status", "description": "See which files you changed." },
+      { "command": "git diff", "description": "See exactly what changed, line by line." },
+      { "command": "git add <file>", "description": "Choose a file to include in your next commit. Use . to add everything." },
+      { "command": "git commit -m \"Your message\"", "description": "Save the chosen changes with a short message." }
+    ]
+  },
+  {
+    "title": "Share your work",
+    "commands": [
+      { "command": "git push origin <branch-name>", "description": "Upload your branch to your fork on GitHub." },
+      { "command": "git pull", "description": "Download the latest changes from GitHub." }
+    ]
+  },
+  {
+    "title": "Keep your fork up to date",
+    "commands": [
+      { "command": "git remote add upstream <original-repo-url>", "description": "Connect your copy to the original project. Do this once." },
+      { "command": "git fetch upstream", "description": "Download the latest changes from the original project." },
+      { "command": "git merge upstream/main", "description": "Bring those changes into your current branch." }
+    ]
+  }
+]

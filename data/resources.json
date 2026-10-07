@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Pro Git (free book)",
+    "url": "https://git-scm.com/book/en/v2",
+    "category": "Git",
+    "level": "Beginner",
+    "description": "The official Git book. Chapters 1 to 3 cover everything you need to start."
+  },
+  {
+    "title": "Learn Git Branching",
+    "url": "https://learngitbranching.js.org",
+    "category": "Git",
+    "level": "Beginner",
+    "description": "An interactive game that teaches branches, commits, and merges visually."
+  },
+  {
+    "title": "Oh My Git!",
+    "url": "https://ohmygit.org",
+    "category": "Git",
+    "level": "Beginner",
+    "description": "A free, open source game for learning Git with playing cards."
+  },
+  {
+    "title": "GitHub Skills",
+    "url": "https://skills.github.com",
+    "category": "GitHub",
+    "level": "Beginner",
+    "description": "Short hands-on courses that run inside real GitHub repositories."
+  },
+  {
+    "title": "About pull requests",
+    "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests",
+    "category": "GitHub",
+    "level": "Beginner",
+    "description": "GitHub's own guide to what a pull request is and how reviews work."
+  },
+  {
+    "title": "Open Source Guides",
+    "url": "https://opensource.guide",
+    "category": "Open Source",
+    "level": "Beginner",
+    "description": "Practical guides on how to contribute and what to expect from maintainers."
+  },
+  {
+    "title": "Choose a License",
+    "url": "https://choosealicense.com",
+    "category": "Open Source",
+    "level": "Beginner",
+    "description": "Explains common open source licenses in plain language."
+  },
+  {
+    "title": "Markdown Guide",
+    "url": "https://www.markdownguide.org",
+    "category": "Docs",
+    "level": "Beginner",
+    "description": "Learn the formatting used in README files, issues, and pull requests."
+  },
+  {
+    "title": "Good First Issue",
+    "url": "https://goodfirstissue.dev",
+    "category": "Find Issues",
+    "level": "Beginner",
+    "description": "Finds beginner-friendly issues across popular open source projects."
+  },
+  {
+    "title": "Up For Grabs",
+    "url": "https://up-for-grabs.net",
+    "category": "Find Issues",
+    "level": "Beginner",
+    "description": "A list of projects with tasks set aside for new contributors."
+  },
+  {
+    "title": "Hacktoberfest",
+    "url": "https://hacktoberfest.com",
+    "category": "Programs",
+    "level": "Beginner",
+    "description": "A month-long celebration of open source, every October."
+  },
+  {
+    "title": "Google Summer of Code",
+    "url": "https://summerofcode.withgoogle.com",
+    "category": "Programs",
+    "level": "Intermediate",
+    "description": "A paid, remote program where you work with an open source organization and a mentor."
+  },
+  {
+    "title": "GirlScript Summer of Code",
+    "url": "https://gssoc.girlscript.org",
+    "category": "Programs",
+    "level": "Beginner",
+    "description": "A free summer program where contributors earn points for merged pull requests."
+  }
+]
