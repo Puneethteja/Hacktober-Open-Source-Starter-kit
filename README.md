@@ -15,7 +15,7 @@ This project is made for first-time contributors. If you have never opened a pul
 ## Setup
 
 1. Fork this repository using the **Fork** button at the top right.
-2. Clone the repository to your computer:
+2. Clone the repositry to your computer:
 
    ```bash
    git clone https://github.com/<your-username>/Hacktober-Open-Source-Starter-kit.git
