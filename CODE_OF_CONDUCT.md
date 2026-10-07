@@ -25,4 +25,4 @@ Examples of behavior that is not acceptable:
 
 Maintainers may remove, edit, or reject comments, commits, issues, and pull requests that break this Code of Conduct, and may block people who repeatedly break it.
 
-To report a problem, contact the GDSC NIT Rourkela team at YOUR-CONTACT-EMAIL. Reports are kept private.
+To report a problem, contact the GDSC NIT Rourkela team at [dscnitrourkela@gmail.com](mailto:dscnitrourkela@gmail.com). Reports are kept private.

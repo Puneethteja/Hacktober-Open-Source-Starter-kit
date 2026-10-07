@@ -7,7 +7,7 @@
   {
     "term": "Clone",
     "definition": "Download a copy of a repository from GitHub to your own computer so you can work on it.",
-    "example": "git clone https://github.com/your-username/open-source-starter-kit.git"
+    "example": "git clone https://github.com/your-username/Hacktober-Open-Source-Starter-kit.git"
   },
   {
     "term": "Commit",

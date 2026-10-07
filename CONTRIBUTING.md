@@ -25,8 +25,8 @@ If you are assigned and get stuck, ask in the issue. If you stop working on it, 
 Click **Fork** on GitHub, then:
 
 ```bash
-git clone https://github.com/<your-username>/open-source-starter-kit.git
-cd open-source-starter-kit
+git clone https://github.com/<your-username>/Hacktober-Open-Source-Starter-kit.git
+cd Hacktober-Open-Source-Starter-kit
 ```
 
 ### 2. Create a branch

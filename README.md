@@ -2,7 +2,7 @@
 
 A beginner's guide to open source, built by students of NIT Rourkela with GDSC NIT Rourkela.
 
-**Live site:** https://YOUR-ORG.github.io/open-source-starter-kit
+**Live site:** https://dscnitrourkela.github.io/Hacktober-Open-Source-Starter-kit
 
 The site has three parts:
 
@@ -15,11 +15,11 @@ This project is made for first-time contributors. If you have never opened a pul
 ## Setup
 
 1. Fork this repository using the **Fork** button at the top right.
-2. Clone the repositry to your computer:
+2. Clone the repository to your computer:
 
    ```bash
-   git clone https://github.com/<your-username>/open-source-starter-kit.git
-   cd open-source-starter-kit
+   git clone https://github.com/<your-username>/Hacktober-Open-Source-Starter-kit.git
+   cd Hacktober-Open-Source-Starter-kit
    ```
 
 3. Start a local server inside the project folder:
@@ -52,7 +52,7 @@ scripts/validate.js Checks the data files for mistakes
 We would love your help. Start here:
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md). It takes 5 minutes.
-2. Find an issue labeled [`good first issue`](https://github.com/YOUR-ORG/open-source-starter-kit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+2. Find an issue labeled [`good first issue`](https://github.com/dscnitrourkela/Hacktober-Open-Source-Starter-kit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 3. Comment on it to ask for it, and wait to be assigned.
 
 Please also read our [Code of Conduct](CODE_OF_CONDUCT.md).
@@ -61,8 +61,8 @@ Please also read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Everyone whose pull request is merged appears here automatically.
 
-<a href="https://github.com/YOUR-ORG/open-source-starter-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YOUR-ORG/open-source-starter-kit" alt="Contributors">
+<a href="https://github.com/dscnitrourkela/Hacktober-Open-Source-Starter-kit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dscnitrourkela/Hacktober-Open-Source-Starter-kit" alt="Contributors">
 </a>
 
 ## License
